@@ -1,4 +1,5 @@
-ABSTRACT
+ABSTRACT :
+
 Recent research has underscored the vital role of personalized food recommendation
 systems in fostering healthy eating habits. A fresh methodology has been proposed,
 employing constrained question answering on a food knowledge base to adeptly
@@ -18,7 +19,8 @@ profile evaluation and personalized nutritional suggestions, our system endeavor
 empower users in making informed dietary decisions and augmenting their overall wellbeing.
 
 
-Motivation
+Motivation :
+
 In the face of rising health issues stemming from modern lifestyles and exacerbated by the
 COVID-19 pandemic, there is a critical need to prioritize preventive healthcare and overall
 wellness. Our solution lies in bridging the gap between modernity and tradition by leveraging
@@ -31,6 +33,7 @@ nutritional information, and preparation guidelines to enable individuals to tak
 health and well-being.
 
 
-Problem statement
+Problem statement :
+
 "Developing an app to promote Indian Ayurvedic recipes and improve health by shifting focus
 from foreign to indigenous cuisine."
